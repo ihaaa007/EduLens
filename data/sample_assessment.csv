@@ -1,0 +1,11 @@
+student_id,question,answer
+S01,"Explain the difference between flow control and congestion control in TCP.","Flow control prevents a fast sender from sending too much data to a slow receiver."
+S02,"Explain the difference between flow control and congestion control in TCP.","Flow control prevents congestion in the network when there are too many packets."
+S03,"Explain the difference between flow control and congestion control in TCP.","Flow control and congestion control are the same thing."
+S04,"Explain the difference between flow control and congestion control in TCP.","Congestion control protects the receiver from receiving too much data."
+S05,"Explain the difference between flow control and congestion control in TCP.","Flow control manages how much data the receiver can accept."
+S06,"Explain the difference between flow control and congestion control in TCP.","Flow control reduces traffic when the network is congested."
+S07,"Explain the difference between flow control and congestion control in TCP.","Congestion control makes sure the receiver buffer does not overflow."
+S08,"Explain the difference between flow control and congestion control in TCP.","Flow control is about the receiver, while congestion control is about the network."
+S09,"Explain the difference between flow control and congestion control in TCP.","Both flow control and congestion control protect the receiver from too much data."
+S10,"Explain the difference between flow control and congestion control in TCP.","Flow control controls the receiver and congestion control controls network congestion."
